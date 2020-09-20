@@ -25,6 +25,10 @@
         "graph-composer": {
             "type": "git",
             "url": "https://github.com/jkphl/graph-composer"
+        },
+        "dom-factory": {
+            "type": "git",
+            "url": "https://github.com/jessarcher/dom-factory"
         }
     },
     "require": {
